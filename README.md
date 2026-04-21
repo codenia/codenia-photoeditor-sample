@@ -10,7 +10,6 @@ The sample shows a real implementation using the provided AAR library, including
   <img src="https://www.codenia-photoeditor.com/images/screenshots/04.jpg" width="150"/>
   <img src="https://www.codenia-photoeditor.com/images/screenshots/05.jpg" width="150"/>
   <img src="https://www.codenia-photoeditor.com/images/screenshots/06.jpg" width="150"/>
-  <img src="https://www.codenia-photoeditor.com/images/screenshots/09.jpg" width="150"/>
 </p>
 
 ---
