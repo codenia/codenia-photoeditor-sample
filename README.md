@@ -1,8 +1,17 @@
 # Codenia Photo Editor for Android – Sample Project
 
-This repository contains a complete sample Android project demonstrating how to integrate the **Codenia Photo Editor** into your app.
+This repository contains a complete sample Android project demonstrating how to integrate the **Codenia Photo Editor for Android** into your app.
 
 The sample shows a real implementation using the provided AAR library, including setup, configuration, and handling of editor callbacks.
+
+<p align="center">
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/01.jpg" width="150"/>
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/02.jpg" width="150"/>
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/04.jpg" width="150"/>
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/05.jpg" width="150"/>
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/06.jpg" width="150"/>
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/09.jpg" width="150"/>
+</p>
 
 ---
 
@@ -80,9 +89,6 @@ Purchase a license key here:
 
 ## ⚠️ Notes
 
-- The sample project may include a license key for demonstration purposes  
-  (valid only for this sample application ID)
-- Do **not** reuse this key in your own apps
 - The editor does **not** support undo/redo
 - Only a few example stickers are included – provide your own for production use
 
