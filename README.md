@@ -88,8 +88,11 @@ Purchase a license key here:
 
 ## ⚠️ Notes
 
-- The editor does **not** support undo/redo
-- Only a few example stickers are included – provide your own for production use
+- The editor does **not** support undo/redo.
+- Only a few example stickers are included – provide your own for production use.
+- The Photo Editor requires minSdk = 26.
+- The activity hosting the editor must define android:configChanges="keyboard|keyboardHidden|orientation|screenSize". This is required because the Photo Editor does not save or restore its internal state.
+- It is strongly recommended to enable android:largeHeap="true" and to pass an image of reasonable size to the editor. 
 
 ---
 
