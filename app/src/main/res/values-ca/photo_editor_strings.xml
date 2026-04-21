@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Cancel·lar</string>
+    <string name="photo_editor_done_button">Fet</string>
+    <string name="photo_editor_exit_confirmation_message">Vols descartar els canvis i sortir?</string>
+    <string name="photo_editor_main_title">Editar</string>
+    <string name="photo_editor_no_button">No</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">Brillantor</string>
+    <string name="photo_editor_tool_colors_title">Colors</string>
+    <string name="photo_editor_tool_contrast_title">Contrast</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Lliure</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Original</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Selecciona la relació d’aspecte</string>
+    <string name="photo_editor_tool_crop_title">Retalla</string>
+    <string name="photo_editor_tool_draw_title">Dibuixa</string>
+    <string name="photo_editor_tool_filter_title">Filtre</string>
+    <string name="photo_editor_tool_flip_title">Inverteix</string>
+    <string name="photo_editor_tool_rotate_title">Gira</string>
+    <string name="photo_editor_tool_saturation_title">Saturació</string>
+    <string name="photo_editor_tool_sharpen_title">Enfoca</string>
+    <string name="photo_editor_tool_sticker_title">Adhesiu</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Si us plau, introdueix el text:</string>
+    <string name="photo_editor_tool_text_title">Text</string>
+    <string name="photo_editor_tool_tone_curve_title">Corbes</string>
+    <string name="photo_editor_tool_vignette_title">Vinyeta</string>
+    <string name="photo_editor_tool_warmth_title">Temperatura</string>
+    <string name="photo_editor_yes_button">Sí</string>
+</resources>

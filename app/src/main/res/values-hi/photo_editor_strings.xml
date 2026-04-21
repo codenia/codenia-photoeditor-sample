@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">रद्द करें</string>
+    <string name="photo_editor_done_button">हो गया</string>
+    <string name="photo_editor_exit_confirmation_message">बदलावों को त्यागकर बाहर निकलें?</string>
+    <string name="photo_editor_main_title">संपादन</string>
+    <string name="photo_editor_no_button">नहीं</string>
+    <string name="photo_editor_ok_button">ठीक है</string>
+    <string name="photo_editor_tool_brightness_title">चमक</string>
+    <string name="photo_editor_tool_colors_title">रंग</string>
+    <string name="photo_editor_tool_contrast_title">कंट्रास्ट</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">स्वतंत्र</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">मूल</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">आस्पेक्ट अनुपात चुनें</string>
+    <string name="photo_editor_tool_crop_title">क्रॉप करें</string>
+    <string name="photo_editor_tool_draw_title">ड्रॉ करें</string>
+    <string name="photo_editor_tool_filter_title">फिल्टर</string>
+    <string name="photo_editor_tool_flip_title">पलटें</string>
+    <string name="photo_editor_tool_rotate_title">घुमाएँ</string>
+    <string name="photo_editor_tool_saturation_title">संतृप्ति</string>
+    <string name="photo_editor_tool_sharpen_title">शार्प करें</string>
+    <string name="photo_editor_tool_sticker_title">स्टिकर</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">कृपया पाठ दर्ज करें:</string>
+    <string name="photo_editor_tool_text_title">पाठ</string>
+    <string name="photo_editor_tool_tone_curve_title">टोन कर्व</string>
+    <string name="photo_editor_tool_vignette_title">विगनेट</string>
+    <string name="photo_editor_tool_warmth_title">गर्मी</string>
+    <string name="photo_editor_yes_button">हाँ</string>
+</resources>

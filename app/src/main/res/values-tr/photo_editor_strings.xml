@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">İptal</string>
+    <string name="photo_editor_done_button">Bitti</string>
+    <string name="photo_editor_exit_confirmation_message">Değişiklikleri iptal edip çıkılsın mı?</string>
+    <string name="photo_editor_main_title">Düzenle</string>
+    <string name="photo_editor_no_button">Hayır</string>
+    <string name="photo_editor_ok_button">Tamam</string>
+    <string name="photo_editor_tool_brightness_title">Parlaklık</string>
+    <string name="photo_editor_tool_colors_title">Renkler</string>
+    <string name="photo_editor_tool_contrast_title">Kontrast</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Serbest</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Orijinal</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">En-boy oranını seçin</string>
+    <string name="photo_editor_tool_crop_title">Kırp</string>
+    <string name="photo_editor_tool_draw_title">Çiz</string>
+    <string name="photo_editor_tool_filter_title">Filtre</string>
+    <string name="photo_editor_tool_flip_title">Çevir</string>
+    <string name="photo_editor_tool_rotate_title">Döndür</string>
+    <string name="photo_editor_tool_saturation_title">Doygunluk</string>
+    <string name="photo_editor_tool_sharpen_title">Keskinleştir</string>
+    <string name="photo_editor_tool_sticker_title">Çıkartma</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Metni girin:</string>
+    <string name="photo_editor_tool_text_title">Metin</string>
+    <string name="photo_editor_tool_tone_curve_title">Ton eğrisi</string>
+    <string name="photo_editor_tool_vignette_title">Vinyet</string>
+    <string name="photo_editor_tool_warmth_title">Sıcaklık</string>
+    <string name="photo_editor_yes_button">Evet</string>
+</resources>

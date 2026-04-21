@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">إلغاء</string>
+    <string name="photo_editor_done_button">تم</string>
+    <string name="photo_editor_exit_confirmation_message">هل تريد تجاهل التغييرات والخروج؟</string>
+    <string name="photo_editor_main_title">تعديل</string>
+    <string name="photo_editor_no_button">لا</string>
+    <string name="photo_editor_ok_button">موافق</string>
+    <string name="photo_editor_tool_brightness_title">السطوع</string>
+    <string name="photo_editor_tool_colors_title">الألوان</string>
+    <string name="photo_editor_tool_contrast_title">التباين</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">حر</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">أصلي</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">اختر نسبة العرض إلى الارتفاع</string>
+    <string name="photo_editor_tool_crop_title">قص</string>
+    <string name="photo_editor_tool_draw_title">رسم</string>
+    <string name="photo_editor_tool_filter_title">فلتر</string>
+    <string name="photo_editor_tool_flip_title">قلب الصورة</string>
+    <string name="photo_editor_tool_rotate_title">تدوير</string>
+    <string name="photo_editor_tool_saturation_title">التشبع</string>
+    <string name="photo_editor_tool_sharpen_title">حدة الصورة</string>
+    <string name="photo_editor_tool_sticker_title">ملصق</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">الرجاء إدخال النص:</string>
+    <string name="photo_editor_tool_text_title">نص</string>
+    <string name="photo_editor_tool_tone_curve_title">منحنى النغمة</string>
+    <string name="photo_editor_tool_vignette_title">تظليل الحواف</string>
+    <string name="photo_editor_tool_warmth_title">حرارة اللون</string>
+    <string name="photo_editor_yes_button">نعم</string>
+</resources>

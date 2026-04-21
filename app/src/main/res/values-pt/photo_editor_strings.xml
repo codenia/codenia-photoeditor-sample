@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Cancelar</string>
+    <string name="photo_editor_done_button">Concluído</string>
+    <string name="photo_editor_exit_confirmation_message">Descartar alterações e sair?</string>
+    <string name="photo_editor_main_title">Editar</string>
+    <string name="photo_editor_no_button">Não</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">Brilho</string>
+    <string name="photo_editor_tool_colors_title">Cores</string>
+    <string name="photo_editor_tool_contrast_title">Contraste</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Livre</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Original</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Escolha a proporção</string>
+    <string name="photo_editor_tool_crop_title">Cortar</string>
+    <string name="photo_editor_tool_draw_title">Desenhar</string>
+    <string name="photo_editor_tool_filter_title">Filtro</string>
+    <string name="photo_editor_tool_flip_title">Espelhar</string>
+    <string name="photo_editor_tool_rotate_title">Girar</string>
+    <string name="photo_editor_tool_saturation_title">Saturação</string>
+    <string name="photo_editor_tool_sharpen_title">Nitidez</string>
+    <string name="photo_editor_tool_sticker_title">Adesivo</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Insira o texto:</string>
+    <string name="photo_editor_tool_text_title">Texto</string>
+    <string name="photo_editor_tool_tone_curve_title">Curvas</string>
+    <string name="photo_editor_tool_vignette_title">Vinheta</string>
+    <string name="photo_editor_tool_warmth_title">Temperatura</string>
+    <string name="photo_editor_yes_button">Sim</string>
+</resources>

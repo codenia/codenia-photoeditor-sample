@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Annuler</string>
+    <string name="photo_editor_done_button">Terminé</string>
+    <string name="photo_editor_exit_confirmation_message">Abandonner les modifications et quitter ?</string>
+    <string name="photo_editor_main_title">Modifier</string>
+    <string name="photo_editor_no_button">Non</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">Luminosité</string>
+    <string name="photo_editor_tool_colors_title">Couleurs</string>
+    <string name="photo_editor_tool_contrast_title">Contraste</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Libre</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Original</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Choisir le format d’image</string>
+    <string name="photo_editor_tool_crop_title">Recadrer</string>
+    <string name="photo_editor_tool_draw_title">Dessiner</string>
+    <string name="photo_editor_tool_filter_title">Filtre</string>
+    <string name="photo_editor_tool_flip_title">Miroir</string>
+    <string name="photo_editor_tool_rotate_title">Pivoter</string>
+    <string name="photo_editor_tool_saturation_title">Saturation</string>
+    <string name="photo_editor_tool_sharpen_title">Netteté</string>
+    <string name="photo_editor_tool_sticker_title">Autocollant</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Veuillez entrer le texte :</string>
+    <string name="photo_editor_tool_text_title">Texte</string>
+    <string name="photo_editor_tool_tone_curve_title">Courbes</string>
+    <string name="photo_editor_tool_vignette_title">Vignette</string>
+    <string name="photo_editor_tool_warmth_title">Température</string>
+    <string name="photo_editor_yes_button">Oui</string>
+</resources>

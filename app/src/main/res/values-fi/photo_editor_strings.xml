@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Peruuta</string>
+    <string name="photo_editor_done_button">Valmis</string>
+    <string name="photo_editor_exit_confirmation_message">Hylätäänkö muutokset ja poistutaan?</string>
+    <string name="photo_editor_main_title">Muokkaa</string>
+    <string name="photo_editor_no_button">Ei</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">Kirkkaus</string>
+    <string name="photo_editor_tool_colors_title">Värit</string>
+    <string name="photo_editor_tool_contrast_title">Kontrasti</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Vapaa</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Alkuperäinen</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Valitse kuvasuhde</string>
+    <string name="photo_editor_tool_crop_title">Rajaa</string>
+    <string name="photo_editor_tool_draw_title">Piirrä</string>
+    <string name="photo_editor_tool_filter_title">Suodatin</string>
+    <string name="photo_editor_tool_flip_title">Peilaa</string>
+    <string name="photo_editor_tool_rotate_title">Kierrä</string>
+    <string name="photo_editor_tool_saturation_title">Kylläisyys</string>
+    <string name="photo_editor_tool_sharpen_title">Terävöitä</string>
+    <string name="photo_editor_tool_sticker_title">Tarra</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Anna teksti:</string>
+    <string name="photo_editor_tool_text_title">Teksti</string>
+    <string name="photo_editor_tool_tone_curve_title">Sävykäyrä</string>
+    <string name="photo_editor_tool_vignette_title">Vignetti</string>
+    <string name="photo_editor_tool_warmth_title">Lämpötila</string>
+    <string name="photo_editor_yes_button">Kyllä</string>
+</resources>

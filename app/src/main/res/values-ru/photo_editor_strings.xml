@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Отмена</string>
+    <string name="photo_editor_done_button">Готово</string>
+    <string name="photo_editor_exit_confirmation_message">Отменить изменения и выйти?</string>
+    <string name="photo_editor_main_title">Редактор</string>
+    <string name="photo_editor_no_button">Нет</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">Яркость</string>
+    <string name="photo_editor_tool_colors_title">Цвета</string>
+    <string name="photo_editor_tool_contrast_title">Контраст</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Свободно</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Оригинал</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Выберите соотношение сторон</string>
+    <string name="photo_editor_tool_crop_title">Обрезать</string>
+    <string name="photo_editor_tool_draw_title">Рисовать</string>
+    <string name="photo_editor_tool_filter_title">Фильтры</string>
+    <string name="photo_editor_tool_flip_title">Отразить</string>
+    <string name="photo_editor_tool_rotate_title">Повернуть</string>
+    <string name="photo_editor_tool_saturation_title">Насыщенность</string>
+    <string name="photo_editor_tool_sharpen_title">Резкость</string>
+    <string name="photo_editor_tool_sticker_title">Стикер</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Введите текст:</string>
+    <string name="photo_editor_tool_text_title">Текст</string>
+    <string name="photo_editor_tool_tone_curve_title">Кривые</string>
+    <string name="photo_editor_tool_vignette_title">Виньетка</string>
+    <string name="photo_editor_tool_warmth_title">Теплота</string>
+    <string name="photo_editor_yes_button">Да</string>
+</resources>

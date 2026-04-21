@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">取消</string>
+    <string name="photo_editor_done_button">完成</string>
+    <string name="photo_editor_exit_confirmation_message">要放弃更改并退出吗？</string>
+    <string name="photo_editor_main_title">编辑</string>
+    <string name="photo_editor_no_button">否</string>
+    <string name="photo_editor_ok_button">确定</string>
+    <string name="photo_editor_tool_brightness_title">亮度</string>
+    <string name="photo_editor_tool_colors_title">颜色</string>
+    <string name="photo_editor_tool_contrast_title">对比度</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">自由</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">原始</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">选择长宽比</string>
+    <string name="photo_editor_tool_crop_title">裁剪</string>
+    <string name="photo_editor_tool_draw_title">绘图</string>
+    <string name="photo_editor_tool_filter_title">滤镜</string>
+    <string name="photo_editor_tool_flip_title">翻转</string>
+    <string name="photo_editor_tool_rotate_title">旋转</string>
+    <string name="photo_editor_tool_saturation_title">饱和度</string>
+    <string name="photo_editor_tool_sharpen_title">锐化</string>
+    <string name="photo_editor_tool_sticker_title">贴纸</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">请输入文字：</string>
+    <string name="photo_editor_tool_text_title">文字</string>
+    <string name="photo_editor_tool_tone_curve_title">色调曲线</string>
+    <string name="photo_editor_tool_vignette_title">渐晕</string>
+    <string name="photo_editor_tool_warmth_title">色温</string>
+    <string name="photo_editor_yes_button">是</string>
+</resources>

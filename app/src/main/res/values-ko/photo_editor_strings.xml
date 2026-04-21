@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">취소</string>
+    <string name="photo_editor_done_button">완료</string>
+    <string name="photo_editor_exit_confirmation_message">변경 사항을 취소하고 종료할까요?</string>
+    <string name="photo_editor_main_title">편집</string>
+    <string name="photo_editor_no_button">아니요</string>
+    <string name="photo_editor_ok_button">확인</string>
+    <string name="photo_editor_tool_brightness_title">밝기</string>
+    <string name="photo_editor_tool_colors_title">색상</string>
+    <string name="photo_editor_tool_contrast_title">대비</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">자유</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">원본</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">가로세로 비율 선택</string>
+    <string name="photo_editor_tool_crop_title">자르기</string>
+    <string name="photo_editor_tool_draw_title">그리기</string>
+    <string name="photo_editor_tool_filter_title">필터</string>
+    <string name="photo_editor_tool_flip_title">뒤집기</string>
+    <string name="photo_editor_tool_rotate_title">회전</string>
+    <string name="photo_editor_tool_saturation_title">채도</string>
+    <string name="photo_editor_tool_sharpen_title">선명하게</string>
+    <string name="photo_editor_tool_sticker_title">스티커</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">텍스트를 입력하세요:</string>
+    <string name="photo_editor_tool_text_title">텍스트</string>
+    <string name="photo_editor_tool_tone_curve_title">톤 곡선</string>
+    <string name="photo_editor_tool_vignette_title">비네트</string>
+    <string name="photo_editor_tool_warmth_title">색온도</string>
+    <string name="photo_editor_yes_button">예</string>
+</resources>

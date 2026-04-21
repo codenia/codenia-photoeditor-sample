@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Anulați</string>
+    <string name="photo_editor_done_button">Terminat</string>
+    <string name="photo_editor_exit_confirmation_message">Renunțați la modificări și ieșiți?</string>
+    <string name="photo_editor_main_title">Editare</string>
+    <string name="photo_editor_no_button">Nu</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">Luminozitate</string>
+    <string name="photo_editor_tool_colors_title">Culori</string>
+    <string name="photo_editor_tool_contrast_title">Contrast</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Liber</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Original</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Alege raportul de aspect</string>
+    <string name="photo_editor_tool_crop_title">Decupează</string>
+    <string name="photo_editor_tool_draw_title">Desenează</string>
+    <string name="photo_editor_tool_filter_title">Filtru</string>
+    <string name="photo_editor_tool_flip_title">Răstoarnă</string>
+    <string name="photo_editor_tool_rotate_title">Rotește</string>
+    <string name="photo_editor_tool_saturation_title">Saturație</string>
+    <string name="photo_editor_tool_sharpen_title">Claritate</string>
+    <string name="photo_editor_tool_sticker_title">Autocolant</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Introduceți textul:</string>
+    <string name="photo_editor_tool_text_title">Text</string>
+    <string name="photo_editor_tool_tone_curve_title">Curbe</string>
+    <string name="photo_editor_tool_vignette_title">Vignetă</string>
+    <string name="photo_editor_tool_warmth_title">Temperatură</string>
+    <string name="photo_editor_yes_button">Da</string>
+</resources>

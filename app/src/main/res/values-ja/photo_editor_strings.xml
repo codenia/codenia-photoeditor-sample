@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">キャンセル</string>
+    <string name="photo_editor_done_button">完了</string>
+    <string name="photo_editor_exit_confirmation_message">変更を破棄して終了しますか？</string>
+    <string name="photo_editor_main_title">編集</string>
+    <string name="photo_editor_no_button">いいえ</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">明るさ</string>
+    <string name="photo_editor_tool_colors_title">色</string>
+    <string name="photo_editor_tool_contrast_title">コントラスト</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">自由</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">オリジナル</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">アスペクト比を選択</string>
+    <string name="photo_editor_tool_crop_title">トリミング</string>
+    <string name="photo_editor_tool_draw_title">描く</string>
+    <string name="photo_editor_tool_filter_title">フィルター</string>
+    <string name="photo_editor_tool_flip_title">反転</string>
+    <string name="photo_editor_tool_rotate_title">回転</string>
+    <string name="photo_editor_tool_saturation_title">彩度</string>
+    <string name="photo_editor_tool_sharpen_title">シャープ</string>
+    <string name="photo_editor_tool_sticker_title">ステッカー</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">テキストを入力してください：</string>
+    <string name="photo_editor_tool_text_title">テキスト</string>
+    <string name="photo_editor_tool_tone_curve_title">カーブ</string>
+    <string name="photo_editor_tool_vignette_title">ビネット</string>
+    <string name="photo_editor_tool_warmth_title">色温</string>
+    <string name="photo_editor_yes_button">はい</string>
+</resources>

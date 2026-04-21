@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Hủy</string>
+    <string name="photo_editor_done_button">Hoàn tất</string>
+    <string name="photo_editor_exit_confirmation_message">Hủy các thay đổi và thoát?</string>
+    <string name="photo_editor_main_title">Chỉnh sửa</string>
+    <string name="photo_editor_no_button">Không</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">Độ sáng</string>
+    <string name="photo_editor_tool_colors_title">Màu sắc</string>
+    <string name="photo_editor_tool_contrast_title">Độ tương phản</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Tự do</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Gốc</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Chọn tỷ lệ khung hình</string>
+    <string name="photo_editor_tool_crop_title">Cắt</string>
+    <string name="photo_editor_tool_draw_title">Vẽ</string>
+    <string name="photo_editor_tool_filter_title">Bộ lọc</string>
+    <string name="photo_editor_tool_flip_title">Lật</string>
+    <string name="photo_editor_tool_rotate_title">Xoay</string>
+    <string name="photo_editor_tool_saturation_title">Độ bão hòa</string>
+    <string name="photo_editor_tool_sharpen_title">Làm nét</string>
+    <string name="photo_editor_tool_sticker_title">Nhãn dán</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Vui lòng nhập văn bản:</string>
+    <string name="photo_editor_tool_text_title">Văn bản</string>
+    <string name="photo_editor_tool_tone_curve_title">Đường cong</string>
+    <string name="photo_editor_tool_vignette_title">Vignette</string>
+    <string name="photo_editor_tool_warmth_title">Ấm áp</string>
+    <string name="photo_editor_yes_button">Có</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Avbryt</string>
+    <string name="photo_editor_done_button">Klart</string>
+    <string name="photo_editor_exit_confirmation_message">Förkasta ändringar och avsluta?</string>
+    <string name="photo_editor_main_title">Redigera</string>
+    <string name="photo_editor_no_button">Nej</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">Ljusstyrka</string>
+    <string name="photo_editor_tool_colors_title">Färger</string>
+    <string name="photo_editor_tool_contrast_title">Kontrast</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Fritt</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Original</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Välj bildförhållande</string>
+    <string name="photo_editor_tool_crop_title">Beskär</string>
+    <string name="photo_editor_tool_draw_title">Rita</string>
+    <string name="photo_editor_tool_filter_title">Filter</string>
+    <string name="photo_editor_tool_flip_title">Spegelvänd</string>
+    <string name="photo_editor_tool_rotate_title">Rotera</string>
+    <string name="photo_editor_tool_saturation_title">Mättnad</string>
+    <string name="photo_editor_tool_sharpen_title">Skärpa</string>
+    <string name="photo_editor_tool_sticker_title">Klistermärke</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Ange texten:</string>
+    <string name="photo_editor_tool_text_title">Text</string>
+    <string name="photo_editor_tool_tone_curve_title">Tonkurva</string>
+    <string name="photo_editor_tool_vignette_title">Vinjett</string>
+    <string name="photo_editor_tool_warmth_title">Temperatur</string>
+    <string name="photo_editor_yes_button">Ja</string>
+</resources>

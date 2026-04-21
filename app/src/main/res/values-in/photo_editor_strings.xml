@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Batalkan</string>
+    <string name="photo_editor_done_button">Selesai</string>
+    <string name="photo_editor_exit_confirmation_message">Buang perubahan dan keluar?</string>
+    <string name="photo_editor_main_title">Sunting</string>
+    <string name="photo_editor_no_button">Tidak</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">Kecerahan</string>
+    <string name="photo_editor_tool_colors_title">Warna</string>
+    <string name="photo_editor_tool_contrast_title">Kontras</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Bebas</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Asli</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Pilih rasio aspek</string>
+    <string name="photo_editor_tool_crop_title">Pangkas</string>
+    <string name="photo_editor_tool_draw_title">Gambar</string>
+    <string name="photo_editor_tool_filter_title">Filter</string>
+    <string name="photo_editor_tool_flip_title">Balik</string>
+    <string name="photo_editor_tool_rotate_title">Putar</string>
+    <string name="photo_editor_tool_saturation_title">Saturasi</string>
+    <string name="photo_editor_tool_sharpen_title">Pertajam</string>
+    <string name="photo_editor_tool_sticker_title">Stiker</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Silakan masukkan teks:</string>
+    <string name="photo_editor_tool_text_title">Teks</string>
+    <string name="photo_editor_tool_tone_curve_title">Kurva</string>
+    <string name="photo_editor_tool_vignette_title">Vignette</string>
+    <string name="photo_editor_tool_warmth_title">Kehangatan</string>
+    <string name="photo_editor_yes_button">Ya</string>
+</resources>

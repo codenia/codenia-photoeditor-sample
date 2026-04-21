@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Ακύρωση</string>
+    <string name="photo_editor_done_button">Εντάξει</string>
+    <string name="photo_editor_exit_confirmation_message">Απόρριψη αλλαγών και έξοδος;</string>
+    <string name="photo_editor_main_title">Επεξεργασία</string>
+    <string name="photo_editor_no_button">Όχι</string>
+    <string name="photo_editor_ok_button">ΟΚ</string>
+    <string name="photo_editor_tool_brightness_title">Φωτεινότητα</string>
+    <string name="photo_editor_tool_colors_title">Χρώματα</string>
+    <string name="photo_editor_tool_contrast_title">Αντίθεση</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Ελεύθερο</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Πρωτότυπο</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Επιλέξτε αναλογία διαστάσεων</string>
+    <string name="photo_editor_tool_crop_title">Περικοπή</string>
+    <string name="photo_editor_tool_draw_title">Σχεδίαση</string>
+    <string name="photo_editor_tool_filter_title">Φίλτρο</string>
+    <string name="photo_editor_tool_flip_title">Αντιστροφή</string>
+    <string name="photo_editor_tool_rotate_title">Περιστροφή</string>
+    <string name="photo_editor_tool_saturation_title">Κορεσμός</string>
+    <string name="photo_editor_tool_sharpen_title">Όξυνση</string>
+    <string name="photo_editor_tool_sticker_title">Αυτοκόλλητο</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Παρακαλώ εισαγάγετε το κείμενο:</string>
+    <string name="photo_editor_tool_text_title">Κείμενο</string>
+    <string name="photo_editor_tool_tone_curve_title">Καμπύλες</string>
+    <string name="photo_editor_tool_vignette_title">Βινιέτα</string>
+    <string name="photo_editor_tool_warmth_title">Θερμότητα</string>
+    <string name="photo_editor_yes_button">Ναι</string>
+</resources>

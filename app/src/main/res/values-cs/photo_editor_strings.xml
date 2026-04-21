@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="photo_editor_cancel_button">Zrušit</string>
+    <string name="photo_editor_done_button">Hotovo</string>
+    <string name="photo_editor_exit_confirmation_message">Zahodit změny a ukončit?</string>
+    <string name="photo_editor_main_title">Úpravy</string>
+    <string name="photo_editor_no_button">Ne</string>
+    <string name="photo_editor_ok_button">OK</string>
+    <string name="photo_editor_tool_brightness_title">Jas</string>
+    <string name="photo_editor_tool_colors_title">Barvy</string>
+    <string name="photo_editor_tool_contrast_title">Kontrast</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_free">Volné</string>
+    <string name="photo_editor_tool_crop_aspect_ratio_original">Původní</string>
+    <string name="photo_editor_tool_crop_choose_aspect_ratio">Vyberte poměr stran</string>
+    <string name="photo_editor_tool_crop_title">Oříznout</string>
+    <string name="photo_editor_tool_draw_title">Kreslit</string>
+    <string name="photo_editor_tool_filter_title">Filtr</string>
+    <string name="photo_editor_tool_flip_title">Překlopit</string>
+    <string name="photo_editor_tool_rotate_title">Otočit</string>
+    <string name="photo_editor_tool_saturation_title">Sytost</string>
+    <string name="photo_editor_tool_sharpen_title">Doostřit</string>
+    <string name="photo_editor_tool_sticker_title">Nálepka</string>
+    <string name="photo_editor_tool_text_please_enter_the_text">Zadejte text:</string>
+    <string name="photo_editor_tool_text_title">Text</string>
+    <string name="photo_editor_tool_tone_curve_title">Křivky</string>
+    <string name="photo_editor_tool_vignette_title">Viněta</string>
+    <string name="photo_editor_tool_warmth_title">Teplota</string>
+    <string name="photo_editor_yes_button">Ano</string>
+</resources>
