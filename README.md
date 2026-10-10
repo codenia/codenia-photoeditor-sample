@@ -16,7 +16,7 @@ The sample shows a real implementation using the provided AAR library, including
 
 ## 🚀 Overview
 
-The **Codenia Photo Editor** is a high-quality photo editor for Android delivered as a ready-to-use AAR with a complete UI.
+The **Codenia Photo Editor** (v2.4) is a high-quality photo editor for Android delivered as a ready-to-use AAR with a complete UI.
 
 It allows you to add powerful offline photo editing capabilities to your app in just a few minutes.
 
