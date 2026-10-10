@@ -1,6 +1,6 @@
 # Codenia Photo Editor for Android – Sample Project
 
-This repository contains a complete sample Android project demonstrating how to integrate the **Codenia Photo Editor for Android** into your app.
+This repository contains a complete sample Android project demonstrating how to integrate the **Codenia Photo Editor for Android** (v2.4) into your app.
 
 The sample shows a real implementation using the provided AAR library, including setup, configuration, and handling of editor callbacks.
 
