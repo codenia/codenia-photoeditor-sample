@@ -1,4 +1,4 @@
-# Codenia Photo Editor for Android – Library Sample Project
+## Codenia Photo Editor for Android – Library Sample Project
 
 This repository contains the official Android sample project for **Codenia Photo Editor**, a ready-to-use photo editing library and SDK for Android developers.
 
