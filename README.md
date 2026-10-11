@@ -1,30 +1,31 @@
-# Codenia Photo Editor for Android – Sample Project
+# Codenia Photo Editor for Android – Library Sample Project
 
-This repository contains a complete sample Android project demonstrating how to integrate the **Codenia Photo Editor for Android** (v2.4) into your app.
+This repository contains the official Android sample project for **Codenia Photo Editor**, a ready-to-use photo editing library and SDK for Android developers.
 
-The sample shows a real implementation using the provided AAR library, including setup, configuration, and handling of editor callbacks.
+The sample demonstrates how to integrate the provided AAR library into your own Android app, including setup, configuration, UI customization, and handling of editor callbacks.
 
 <p align="center">
-  <img src="https://www.codenia-photoeditor.com/images/screenshots/01.jpg" width="150"/>
-  <img src="https://www.codenia-photoeditor.com/images/screenshots/02.jpg" width="150"/>
-  <img src="https://www.codenia-photoeditor.com/images/screenshots/04.jpg" width="150"/>
-  <img src="https://www.codenia-photoeditor.com/images/screenshots/05.jpg" width="150"/>
-  <img src="https://www.codenia-photoeditor.com/images/screenshots/06.jpg" width="150"/>
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/01.jpg" alt="Codenia Photo Editor main menu on Android" width="150"/>
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/02.jpg" alt="Codenia Photo Editor filter tool on Android" width="150"/>
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/04.jpg" alt="Codenia Photo Editor sharpen tool on Android" width="150"/>
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/05.jpg" alt="Codenia Photo Editor drawing tool on Android" width="150"/>
+  <img src="https://www.codenia-photoeditor.com/images/screenshots/06.jpg" alt="Codenia Photo Editor sticker tool on Android" width="150"/>
 </p>
 
 ---
 
 ## 🚀 Overview
 
-The **Codenia Photo Editor** (v2.4) is a high-quality photo editor for Android delivered as a ready-to-use AAR with a complete UI.
+**Codenia Photo Editor** is a ready-to-use Android photo editing library delivered as an AAR with a complete, customizable user interface.
 
-It allows you to add powerful offline photo editing capabilities to your app in just a few minutes.
+It allows developers to add powerful offline photo editing capabilities to their Android apps in just a few minutes, without building an image editor from scratch.
 
 ---
 
 ## ✨ Features
 
 - 15 professional editing tools (crop, rotate, filters, text, stickers, drawing, and more)
+- 30 photo filters
 - Fully offline – no backend or API required
 - Ready-to-use UI component
 - Customizable tools, filters, fonts, stickers, and colors
@@ -48,9 +49,9 @@ It allows you to add powerful offline photo editing capabilities to your app in 
 
 ## 🛠 Integration
 
-To integrate the editor into your own app, follow the full documentation:
+To integrate Codenia Photo Editor into your Android app, follow the official integration guide:
 
-👉 https://www.codenia-photoeditor.com/documentation
+👉 [Android Photo Editor Integration Guide](https://www.codenia-photoeditor.com/documentation)
 
 ---
 
@@ -77,12 +78,9 @@ The typical flow demonstrated in this sample:
 Each license is strictly bound to a single Android application ID (package name).  
 A separate license is required for every additional app.
 
-License Agreement
+👉 [License Agreement](https://www.codenia-photoeditor.com/license-agreement)
 
-👉 https://www.codenia-photoeditor.com/license-agreement.html
-
-Purchase a license key here:  
-👉 https://www.codenia-photoeditor.com/purchase.html
+👉 [Purchase a License Key](https://www.codenia-photoeditor.com/purchase)
 
 ---
 
@@ -90,27 +88,23 @@ Purchase a license key here:
 
 - The editor does **not** support undo/redo.
 - Only a few example stickers are included – provide your own for production use.
-- The Photo Editor requires minSdk = 26.
-- The activity hosting the editor must define android:configChanges="keyboard|keyboardHidden|orientation|screenSize". This is required because the Photo Editor does not save or restore its internal state.
-- It is strongly recommended to enable android:largeHeap="true" and to pass an image of reasonable size to the editor. 
-
+- The Photo Editor requires `minSdk = 26`.
+- The activity hosting the editor must define `android:configChanges="keyboard|keyboardHidden|orientation|screenSize"`. This is required because the Photo Editor does not save or restore its internal state.
+- It is strongly recommended to enable `android:largeHeap="true"` and to pass an image of reasonable size to the editor.
+  
 ---
 
 ## 📷 Screenshots
 
-👉 https://www.codenia-photoeditor.com/screenshots
+👉 [View Codenia Photo Editor Screenshots](https://www.codenia-photoeditor.com/screenshots)
 
 ---
 
 ## 🎬 Demo Video
 
-👉 https://www.codenia-photoeditor.com/video
+Watch Codenia Photo Editor running inside the official Android sample app:
 
----
-
-## 📄 License Agreement
-
-👉 https://www.codenia-photoeditor.com/license-agreement.html
+👉 [Watch Codenia Photo Editor Demo on YouTube](https://www.youtube.com/watch?v=gE_vbsXV7oM)
 
 ---
 
